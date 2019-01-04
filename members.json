@@ -1,0 +1,43 @@
+[
+    {
+        "dni" : "26747654",
+        "letter" : " B",
+        "firstNameA" : "Lenin",
+        "firstNameB" : "Guillermo",
+        "secondNameA" : "Lemus",
+        "secondNameB" : "Zúñiga",
+        "signature" : "Lenin Guillermo Lemus Zúñiga",
+        "email" : "lemus@upv.es",
+        "mobile" : "629636209",
+        "birthdate" : "19-11-1963",
+        "research_areas" : ["IoT", "distributed systems", "Web Applications"],
+        "web_url" : " http://lemus.webs.upv.es",
+        "twitter" : "lenin-lemus",
+        "facebook" : "leninlemus",
+        "orcid" : "0000-0002-6361-6019",
+        "researcher_id" : "C-4413-2015",
+        "scopus": "",
+        "avatar" : " string"
+    },
+    {
+        "dni" : "26747654",
+        "letter" : " B",
+        "firstNameA" : "Lenin",
+        "firstNameB" : "Guillermo",
+        "secondNameA" : "Lemus",
+        "secondNameB" : "Zúñiga",
+        "signature" : "Lenin Guillermo Lemus Zúñiga",
+        "email" : "lemus@upv.es",
+        "mobile" : "629636209",
+        "birthdate" : "19-11-1963",
+        "research_areas" : ["IoT", "distributed systems", "Web Applications"],
+        "web_url" : " http://lemus.webs.upv.es",
+        "twitter" : "lenin-lemus",
+        "facebook" : "leninlemus",
+        "orcid" : "0000-0002-6361-6019",
+        "researcher_id" : "C-4413-2015",
+        "scopus": "",
+        "avatar" : " string"
+    }
+
+]
