@@ -1,0 +1,26 @@
+[
+{
+    "id" : "2017/1",
+    "title" :  "European Digital Bootcamps",
+    "description" : "Contribute to decrease the dramatic problem of NEETs",
+    "ip" : "Ph. D. Lenin Guillermo Lemus Zúñiga",
+    "members" : [
+        {"fullName":"Lenin Guillermo Lemus Zúñiga","email":"lemus@upv.es"},
+        {"fullName":"José Vicente Benlloch Dualde","email":"jbenlloc@upv.es"},
+        {"fullName":"Miguel Ángel Mateo Pla","email":"mimateo@upv.es"},
+        {"fullName":"Begoña Saíz Monléon","email":"bsaiz@upv.es"},
+        {"fullName":"Jimena","email":"jimena@upv.es"},
+        {"fullName":"Olga","email":"olga@upv.es"},
+        {"fullName":"Daniela Gil Salom","email":"daniela@upv.es"},
+        {"fullName":"Antonio Reig","email":"antonio@upv.es"},
+        {"fullName":"Lourdes Castelblanque","email":"loucasso@upv.es"},
+        {"fullName":"Nereida","email":"nereida@upv.es"},
+        {"fullName":"Jorge Luzuriaga","email":"jorluqui@upv.es"}
+    ],
+    "web_site" : "digital.bootcamps.eu",
+    "budget" : 230000,
+    "sponsor" : "EEA and Norway Grants ",
+    "sponsor_logo_path" : "",
+    "sponsor_url" : "https://eeagrants.org/"
+}
+]
