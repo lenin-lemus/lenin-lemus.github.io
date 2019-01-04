@@ -15,7 +15,7 @@
         {"fullName":"Antonio Reig","email":"antonio@upv.es", "dni" :  "12345678", "letter" : "A"},
         {"fullName":"Lourdes Castelblanque","email":"loucasso@upv.es", "dni" :  "12345678", "letter" : "A"},
         {"fullName":"Nereida","email":"nereida@upv.es", "dni" :  "12345678", "letter" : "A"},
-        {"fullName":"Jorge Luzuriaga","email":"jorluqui@upv.es"}
+        {"fullName":"Jorge Luzuriaga","email":"jorluqui@upv.es", "dni" :  "12345678", "letter" : "A"}
     ],
     "web_site" : "digital.bootcamps.eu",
     "budget" : 230000,
